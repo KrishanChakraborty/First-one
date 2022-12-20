@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+//C program to evaluate XOR of two given input hexadecimal strings
 extern const char base[]="0123456789ABCDEF";
 char* hexa(int x)
 {
